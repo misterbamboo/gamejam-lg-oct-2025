@@ -104,11 +104,11 @@ La page doit inclure :
 
 ## Conclusion
 Le Game Jam est avant tout une **expérience collective** : on vient pour expérimenter, créer et partager.  
-Amusez-vous, testez vos idées et profitez du moment 🚀  
+Amusez-vous, testez vos idées et profitez du moment!
 
 ---
 
 > **Recommandation** :  
-> - Dormir des heures régulières (7 à 9h).  
+> - Dormir des heures régulières (7 à 9h pour dormir).  
 > - Manger, boire et se dégourdir durant le jam, en allant voir les autres équipes.  
 > - Éviter les “hype/crash” d’énergie liés aux jujubes, chocolats et boissons sucrées.  
