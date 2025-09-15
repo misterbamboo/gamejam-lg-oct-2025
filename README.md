@@ -1,23 +1,24 @@
 # BROUILLON
 
-# Règlement Officiel – Game Jam 24h
+# Règlement Officiel 
+## Game Jam d'une journée Lionel-Groulx !
 
 ## 1. Introduction
-Bienvenue à notre **Game Jam d’une journée** !  
-Chaque équipe de **3 à 5 personnes** aura **24 heures** pour créer un prototype jouable autour d’un thème révélé au lancement.  
+Bienvenue à notre **Game Jam d'une journée Lionel-Groulx !** !  
+Chaque équipe de **3 à 5 personnes** aura **24 heures** pour créer un prototype jouable autour d'un thème révélé au lancement.  
 
 Objectifs :  
 - Stimuler la créativité.  
 - Apprendre de nouvelles choses.  
-- S’amuser et partager une belle expérience en équipe.  
+- S'amuser et partager une belle expérience en équipe.  
 
 ---
 
 ## 2. Esprit du Jam (Obligatoire)
 La participation vient avec des engagements clairs :  
 
-1. **Venir pour avoir du fun et apprendre** – Le but premier n’est pas de gagner, mais de profiter de l’expérience.  
-2. **Favoriser l’inspiration et le partage** – S’inspirer entre équipes, montrer son travail, apprendre des autres.  
+1. **Venir pour avoir du fun et apprendre** – Le but premier n'est pas de gagner, mais de profiter de l'expérience.  
+2. **Favoriser l'inspiration et le partage** – S'inspirer entre équipes, montrer son travail, apprendre des autres.  
 3. **Respect et inclusivité** – Aucun contenu offensant ou comportement hostile. Tout le monde doit se sentir bienvenu.  
 
 ---
@@ -29,15 +30,15 @@ La participation vient avec des engagements clairs :
 - **Moteur de jeu** : installer la même version sur tous les postes (Unity, Godot, Unreal, etc.).  
 - **Projet** : créer un projet vide avec les settings de base (résolution, inputs, pipeline 2D/3D, organisation des dossiers).  
 - **GitHub** : créer un dépôt public, inviter les collaborateurs, et tester un commit/push avant le jam.  
-- **Validation** : s’assurer que tout le monde peut cloner et lancer le projet sans problème.  
+- **Validation** : s'assurer que tout le monde peut cloner et lancer le projet sans problème.  
 
 #### Préparatifs à la soumission
 - Créer ou vérifier que chaque équipe a un **compte itch.io**.  
-- Pour les projets Unity : s’assurer que le **build WebGL** est activé dans les modules Unity Hub.  
+- Pour les projets Unity : s'assurer que le **build WebGL** est activé dans les modules Unity Hub.  
 - Compiler et déployer un petit **“Hello World”** test sur itch.io la veille pour valider que la soumission fonctionne.  
 
 ### 3.2 Sélection du thème
-- Chaque participant peut **suggérer un ou plusieurs thèmes** à l’avance.  
+- Chaque participant peut **suggérer un ou plusieurs thèmes** à l'avance.  
 - Les organisateurs recueillent les propositions et préparent une liste finale.  
 - Au début du jam, un **tirage au hasard** sera effectué parmi cette liste.  
 - Ce tirage déterminera le **thème officiel** du jam.  
@@ -54,16 +55,16 @@ La participation vient avec des engagements clairs :
 ### 4.2 Création
 
 #### Assets et ressources
-- Réutilisation autorisée d’**assets externes** (sons, musiques, images, sprites, modèles 3D, polices).  
+- Réutilisation autorisée d'**assets externes** (sons, musiques, images, sprites, modèles 3D, polices).  
 - Ces assets doivent être **libres de droits, créés avant le jam, ou achetés légalement**.  
 - Obligation de **créditer les sources** dans la soumission.  
 
 #### Code
 - Réutilisation de **code provenant de projets antérieurs** permise (moteurs, librairies, snippets).  
-- Interdiction d’utiliser du code propriétaire ou non autorisé par licence.  
+- Interdiction d'utiliser du code propriétaire ou non autorisé par licence.  
 
 ### 4.3 Bonnes pratiques
-- **Brainstormer un scope réaliste** et le diviser plusieurs fois → 24h c’est court.  
+- **Brainstormer un scope réaliste** et le diviser plusieurs fois → 24h c'est court.  
 - Prioriser le **core gameplay** avant tout le reste (menus, polish, etc.).  
 - **Git** : créer plusieurs petites scènes, réservées par participant, pour éviter les conflits de merge.  
 - Utiliser de **petits scripts modulaires** et des **prefabs**.  
@@ -81,7 +82,7 @@ La page doit inclure :
 - Un **build jouable** (WebGL recommandé, sinon Windows/Mac/Linux).  
 - Une **description courte** du jeu.  
 - Les **instructions de contrôle**.  
-- Des **captures d’écran**.  
+- Des **captures d'écran**.  
 - Les **crédits** (équipe + ressources externes).  
 
 ### 5.2 Évaluation
@@ -94,7 +95,7 @@ La page doit inclure :
 2. Gameplay / fun  
 3. Respect du thème  
 4. Accessibilité / jouabilité  
-(+ optionnels : présentation/ambiance, cohésion d’équipe)  
+(+ optionnels : présentation/ambiance, cohésion d'équipe)  
 
 ### 5.3 Prix
 - Les **3 meilleures équipes** recevront un **trophée**.  
@@ -111,4 +112,4 @@ Amusez-vous, testez vos idées et profitez du moment!
 > **Recommandation** :  
 > - Dormir des heures régulières (7 à 9h pour dormir).  
 > - Manger, boire et se dégourdir durant le jam, en allant voir les autres équipes.  
-> - Éviter les “hype/crash” d’énergie liés aux jujubes, chocolats et boissons sucrées.  
+> - Éviter les “hype/crash” d'énergie liés aux jujubes, chocolats et boissons sucrées.  
