@@ -1,7 +1,7 @@
 # BROUILLON
 
 # Règlement Officiel 
-## Game Jam d'une journée Lionel-Groulx !
+## Game Jam d'une journée Lionel-Groulx (10 oct) !
 
 ## 1. Introduction
 Bienvenue à notre **Game Jam d'une journée Lionel-Groulx !** !  
@@ -14,7 +14,26 @@ Objectifs :
 
 ---
 
-## 2. Esprit du Jam (Obligatoire)
+## 2. Dates importantes pour l'événement
+
+**9 oct**
+- 18 à 19h (1h): Suggestions de thème et tirage au sort
+- 19 à 21h (2h): Braintorm et préparatifs ne équipe
+
+**10 oct**
+- 8h à 20h (12h): GAMEJAM
+- 20h à 21h (1h): Soumissions sur itch.io
+
+**11 et 12 oct**
+- Délibération du jury
+
+ **13 oct**
+ - Révération du résultat du jury
+ - Remise des trophés
+
+---
+
+## 3. Esprit du Jam (Obligatoire)
 La participation vient avec des engagements clairs :  
 
 1. **Venir pour avoir du fun et apprendre** – Le but premier n'est pas de gagner, mais de profiter de l'expérience.  
@@ -23,9 +42,9 @@ La participation vient avec des engagements clairs :
 
 ---
 
-## 3. Avant le Game Jam
+## 4. Avant le Game Jam
 
-### 3.1 Préparatifs
+### 4.1 Préparatifs
 #### Préparatifs techniques
 - **Moteur de jeu** : installer la même version sur tous les postes (Unity, Godot, Unreal, etc.).  
 - **Projet** : créer un projet vide avec les settings de base (résolution, inputs, pipeline 2D/3D, organisation des dossiers).  
@@ -37,7 +56,7 @@ La participation vient avec des engagements clairs :
 - Pour les projets Unity : s'assurer que le **build WebGL** est activé dans les modules Unity Hub.  
 - Compiler et déployer un petit **“Hello World”** test sur itch.io la veille pour valider que la soumission fonctionne.  
 
-### 3.2 Sélection du thème
+### 4.2 Sélection du thème
 - Chaque participant peut **suggérer un ou plusieurs thèmes** à l'avance.  
 - Les organisateurs recueillent les propositions et préparent une liste finale.  
 - Au début du jam, un **tirage au hasard** sera effectué parmi cette liste.  
@@ -45,14 +64,14 @@ La participation vient avec des engagements clairs :
 
 ---
 
-## 4. Pendant le Game Jam
+## 5. Pendant le Game Jam
 
-### 4.1 Organisation générale
+### 5.1 Organisation générale
 - **Durée** : 1 journée (ex. 9h à 21h).  
 - **Équipes** : obligatoirement de 3 à 5 personnes.  
 - **Thème** : révélé au lancement, interprétation libre.  
 
-### 4.2 Création
+### 5.2 Création
 
 #### Assets et ressources
 - Réutilisation autorisée d'**assets externes** (sons, musiques, images, sprites, modèles 3D, polices).  
@@ -63,7 +82,7 @@ La participation vient avec des engagements clairs :
 - Réutilisation de **code provenant de projets antérieurs** permise (moteurs, librairies, snippets).  
 - Interdiction d'utiliser du code propriétaire ou non autorisé par licence.  
 
-### 4.3 Bonnes pratiques
+### 5.3 Bonnes pratiques
 - **Brainstormer un scope réaliste** et le diviser plusieurs fois → 24h c'est court.  
 - Prioriser le **core gameplay** avant tout le reste (menus, polish, etc.).  
 - **Git** : créer plusieurs petites scènes, réservées par participant, pour éviter les conflits de merge.  
@@ -73,9 +92,9 @@ La participation vient avec des engagements clairs :
 
 ---
 
-## 5. Après le Game Jam
+## 6. Après le Game Jam
 
-### 5.1 Publication
+### 6.1 Publication
 À la fin du jam, chaque équipe doit **publier son jeu sur [itch.io](https://itch.io)**.  
 
 La page doit inclure :  
@@ -85,7 +104,7 @@ La page doit inclure :
 - Des **captures d'écran**.  
 - Les **crédits** (équipe + ressources externes).  
 
-### 5.2 Évaluation
+### 6.2 Évaluation
 - Le jury est composé de **3 personnes**.  
 - Chaque juré attribue une **note sur 5** pour chaque critère.  
 - La note finale est la moyenne des 3 jurés.  
@@ -97,7 +116,7 @@ La page doit inclure :
 4. Accessibilité / jouabilité  
 (+ optionnels : présentation/ambiance, cohésion d'équipe)  
 
-### 5.3 Prix
+### 6.3 Prix
 - Les **3 meilleures équipes** recevront un **trophée**.  
 - Des **mentions spéciales** peuvent être attribuées (ex. “Coup de cœur du jury”, “Meilleur son”).  
 
