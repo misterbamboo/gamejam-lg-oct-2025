@@ -142,7 +142,7 @@ Quelques bonnes pratiques pour garder vos projets clairs et efficaces :
 ### 7.1 Organisation générale
 - **Durée** : 10 heures (9h à 19h).
 - **Équipes** : de 2 à 4 personnes.
-- **Thème** : révélé au lancement, interprétation libre.
+- **Thème** : Le plus tu en as, le pire c'est
 
 ### 7.2 Création
 
