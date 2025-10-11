@@ -1,4 +1,5 @@
 # Game Jam Lionel-Groulx x BambooSoft — Octobre 2025
+## **Thème: Le plus tu en as, le pire c'est**
 
 ![Affiche du Game Jam](affiche_10-oct-2025.png)
 
@@ -70,14 +71,15 @@ L'équipe ayant **le score total le plus élevé** remporte le Game Jam 🏆
 - Matis Grenier
 - Olivier Briand-Champagne
 - Romain Ouellet
+- Victor Thibodeau
 
-### **Équipe (nom à déterminer)**
-- Antoine Goulet
+### **Équipe Touski**
 - Nathaniel Ruël-Grossinger
-- Alexis Bonin
 - Nicolas Charette-Naud
+[Jouer à Touski Thief ici](https://mrbamboo.itch.io/touski-thrief)
 
-**Victor Thibodeau** s'est offert pour aider toutes les équipes avec la **musique et les assets**.
+### ** Équipe Monsieur Bonin**
+- Alexis Bonin
 
 ---
 
