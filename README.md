@@ -144,7 +144,9 @@ Quelques bonnes pratiques pour garder vos projets clairs et efficaces :
 ### 7.1 Organisation générale
 - **Durée** : 10 heures (9h à 19h).
 - **Équipes** : de 2 à 4 personnes.
-- **Thème** : Le plus tu en as, le pire c'est
+- **Thème choisi** : Le plus tu en as, le pire c'est
+
+  ![Brackets pour arriver au thème](bracket_10-oct-2025.jpg)
 
 ### 7.2 Création
 
