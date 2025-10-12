@@ -77,9 +77,9 @@ L'équipe ayant **le score total le plus élevé** remporte le Game Jam 🏆
 - Nathaniel Ruël-Grossinger
 - Nicolas Charette-Naud
 
-[Jouer à Touski Thief ici](https://mrbamboo.itch.io/touski-thrief)
+  [Jouer à Touski Thief ici](https://mrbamboo.itch.io/touski-thrief)
 
-[Code](https://github.com/misterbamboo/lg-25-team-touski)
+  [Code](https://github.com/misterbamboo/lg-25-team-touski)
 
 ### ** Équipe Monsieur Bonin**
 - Alexis Bonin
